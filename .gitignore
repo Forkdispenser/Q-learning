@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+CPSC4420_HW2_F26.pdf
+CPSC4420_OpenAI Gym_Introduction.pdf
